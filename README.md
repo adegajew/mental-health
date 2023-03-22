@@ -26,7 +26,7 @@ With the given dataset we try to answer the following questions:
 
 Psychological distress is a binary variable identified by the question 'During the last 12 months, have you ever consulted a psychotherapist or a psychiatrist for your health?' No/ Yes.
 
-We use different ML algorithms: kNN, Logistic Regression to predict  
+We use different ML algorithms: kNN, Logistic Regression, Decision Tree, XGBoost to predict  psychological distress.
 
 ## 💢 Installation
 Anaconda distribution of Python should be just fine to run the code here (Python versions 3.*).
